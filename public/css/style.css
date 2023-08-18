@@ -1,0 +1,180 @@
+#header .navbar img{
+    width: 140px;
+    border-radius: 10px;
+}
+
+#header .navbar i{
+    font-size: 25px;
+    color: black;
+}
+
+
+#head{
+    padding: 10px 0px;
+}
+#head a img{
+    width: 85px;
+
+}
+#head a{
+    text-decoration: none;
+    color: black;
+    padding: 20px , 0px;
+}
+#banner img{
+    height: 400px;
+    width: 100%;
+}
+
+#footer{
+    background: rgb(184, 184, 213); 
+    text-align: justify;  
+}
+#footer a{
+    text-decoration: none;
+    color:black;
+    font-size: 35px;
+    padding: 5px 10px;
+}
+
+#footer img{
+    width: 80px;
+    height: 40px;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+
+#login{
+    height: 450px;
+    display: flex;
+    margin-top: 250px;
+}
+#mid{
+    margin-top: 15px;
+}
+#mid a{
+    text-decoration: none;
+    color: black;
+}
+#mid a:hover{
+    border: 2px solid rgb(193, 192, 191);
+}
+#mid .card{
+    border: none;
+}
+#mid img{
+    width: 220px;
+    height: 270px;
+}
+#mid p{
+    margin: 0px 0px 5px;
+}
+#singledata img{
+    width: 220px;
+    height: 350px;
+}
+#singledata .card{
+    border: none;
+    
+}
+#logo img{
+    width: 110px;
+    height: 70px;
+}
+#logo a img{
+    border-radius:30px;
+    padding: 10px 5px;  
+}
+#logo{
+    background: burlywood;
+    padding: 10px 0px;
+    text-align: center;
+}
+#filter{
+    text-align: center;
+    
+}
+#mid p{
+    text-align: justify;
+}
+#b1{
+    background: rgba(253, 139, 24, 0.996);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+#b2{
+    background: green;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-left: 25px;
+}
+a span{
+    position: absolute;
+    margin-top: 75px;
+    margin-left: -70px;  
+}
+#head a{
+    padding: 0px 15px;
+}
+#but1 button{
+  position: relative;
+  width: 150px;
+  padding: 15px 0px;
+  text-align: center;
+  font-weight: bold;
+  border: 2px solid #3eff37;
+  background: transparent;
+  color: #070707;
+  overflow: hidden;
+  text-transform: uppercase;
+  margin-top: 4px;
+}
+#but1 span{
+    background: #3eff37;
+    height: 100%;
+    width: 0;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 0.5s;
+}
+#but1 button:hover span{
+    width: 150%;
+}
+
+#mobilelogo a img{
+    width: 80px;
+    height: 50px;
+    border-radius: 20px;
+    margin: 5px 10px;
+}
+#mobilelogo h4{
+    text-transform: uppercase;
+    text-shadow: #070707;
+    text-align: center;
+}
+.dropdown-menu{
+    border: none;
+    align-items: center;
+}
+
+#gender a img{
+    width: 65px;
+    height: 65px;
+    border-radius: 50px;
+    margin: 0px 10px;
+}
+#gender {
+    text-align: center;
+}
+#gender a img:hover{
+    border: 3px solid rgb(147, 242, 4);
+    border-radius: 50px;
+
+}
+
+
+  
